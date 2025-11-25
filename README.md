@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **updating my Github Profile.**
 
-- 🌱 I’m currently learning **about Network & Communication, Hardware Security and Numerical Methods.**
-
 - 📫 How to reach me **ref@kth.se**
 
 <h3 align="left">Connect with me:</h3>
