@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **about Network & Communication, Hardware Security and Numerical Methods.**
 
-- 💬 Ask me about **Favorite beer**
-
 - 📫 How to reach me **ref@kth.se**
 
 <h3 align="left">Connect with me:</h3>
