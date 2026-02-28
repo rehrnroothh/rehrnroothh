@@ -1,7 +1,7 @@
 <h1 align="center">Hallhallå!</h1>
 <h3 align="center">Currently pursuing an M.Sc. in Information Technology at KTH Royal Institute of Technology.</h3>
 
-- 🔭 I’m currently working on **updating my Github Profile.**
+- 🔭 Crrently working on **updating my Github Profile.**
 
 - 📫 How to reach me **ref@kth.se**
 
