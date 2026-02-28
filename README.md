@@ -1,9 +1,9 @@
-<h1 align="center">Halloj!</h1>
+<h1 align="center">Welcome,</h1>
 <h3 align="center">Currently pursuing an M.Sc. in Information Technology at KTH Royal Institute of Technology.</h3>
 
-- 🔭 Currently working on **updating my Github Profile.**
+- 🔭 See published/public projects under reposotories.**
 
-- 📫 How to reach me **ref@kth.se**
+- 📫 Reach me through **ref@kth.se**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
